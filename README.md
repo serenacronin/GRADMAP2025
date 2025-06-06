@@ -34,7 +34,7 @@ or, to navigate backwards:
 
     cd ../path_to_directory
 
-The above assumes you will be working on the computer 'jansky' (which we recommend).
+The above assumes you will be working on the computer 'jansky' (which we recommend for long computations).
 
 
 ====================================================================================
